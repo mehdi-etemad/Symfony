@@ -1,0 +1,7 @@
+Index:
+    path: /
+#    controller: App\Controller\TestController::Index
+#    controller: App\Controller\TestController::IndexResponse
+#    controller: App\Controller\TestController::IndexRedirect
+#    controller: App\Controller\TestController::IndexRedirectToRoute
+    controller: App\Controller\TestController::IndexRender
