@@ -17,5 +17,4 @@
 ###> phpunit/phpunit ###
 /phpunit.xml
 .phpunit.result.cache
-###< phpunit/phpunit
-.vscode/launch.json
+###< phpunit/phpunit ###.vscode/launch.json
