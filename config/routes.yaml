@@ -1,15 +1,18 @@
 Index:
     path: /
     controller: App\Controller\TestController::Index
-Index:
+IndexResponse:
     path: /Response
     controller: App\Controller\TestController::IndexResponse
-Index:
+IndexRedirect:
     path: /Redirect
     controller: App\Controller\TestController::IndexRedirect
-Index:
+IndexRedirectRoute:
     path: /RedirectRoute
     controller: App\Controller\TestController::IndexRedirectToRoute
-Index:
+IndexRender:
     path: /Render
     controller: App\Controller\TestController::IndexRender
+IndexJSON:
+    path: /JSON
+    controller: App\Controller\TestController::IndexJSON
